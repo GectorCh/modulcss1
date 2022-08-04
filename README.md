@@ -12,5 +12,7 @@ NOMER 6
 ![Untitled6](https://user-images.githubusercontent.com/93502005/182939359-1f0526ac-50e1-403c-a8eb-9e1c5cb4d62f.png)
 NOMER 7
 ![Untitled7](https://user-images.githubusercontent.com/93502005/182939390-fe5d4137-0eb1-4c9b-8489-ff319273f086.png)
+
+
 NOMER 8
 ![Untitled8](https://user-images.githubusercontent.com/93502005/182939427-e5211e3b-520c-4b48-9288-a82046a3a03a.png)
